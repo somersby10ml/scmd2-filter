@@ -1,0 +1,6 @@
+LIBRARY	"Search.sdp"
+EXPORTS
+	InitPlugin
+	RunPlugin
+	PluginGetMenuString
+	GetPluginVersion
